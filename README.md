@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ADITYA NEURALPATH
+# Hi there! 👋 I'm ADITYA
 
 I'm a passionate Software Developer, a recent Computer Science graduate, and a Statistical Analyst with a keen interest in quantitative analysis. 🚀
 
@@ -12,16 +12,7 @@ I'm a passionate Software Developer, a recent Computer Science graduate, and a S
 
 📈 As a Quant Enthusiast, I find joy in the world of quantitative analysis and financial modeling. I enjoy applying mathematical and statistical techniques to understand and predict market behavior.
 
-## Tech Stack
-
-- **Languages:** Java, Python, JavaScript
-- **Frameworks:** React, Spring Boot
-- **Data Analysis:** R, Python (NumPy, Pandas)
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
-
 ## Let's Connect
 
 I'm always open to collaboration and learning from fellow developers and analysts. Feel free to reach out for discussions, projects, or just a friendly chat!
-
 Let's code, analyze, and create together! 🚀✨
